@@ -11,8 +11,7 @@ h1 {
 }
 
 nav {
-    background-color: rgb(234, 99, 36);
-    
+    background-color:rgb(110, 122, 7);
 }
 
 main {
@@ -35,22 +34,34 @@ margin-bottom: 10px;
 }
 
 body {
-    margin-left: auto;
+    margin-left: 50px; 
+    margin-right: 50px; 
+    background-color: rgb(245, 170, 66)
 }
 /* div {
         margin: 0;
         padding: 0;
         width: 40%;
         display: inline-flex;
+        
 } */
 
 
 #image-section{
     display: inline-flex;
+    float: right
 }
 
 footer {
 text-align: center;
 background-color: blue;
 color: #fff
+}
+
+ol{
+    color:#ffff 
+}
+
+p {
+    color:#fff
 }
