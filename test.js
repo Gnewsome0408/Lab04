@@ -42,4 +42,3 @@ var name = prompt ("what is your name? ");
 alert ("How are you " + name);
 
 document.getElementById("heading").innerHTML = name;
-
